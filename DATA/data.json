@@ -1,0 +1,252 @@
+{
+    "news": [
+        {
+            "title": "Is Premier League title race already down to two teams?",
+            "imgUrl": "3d95b070-9fb2-11ef-8538-e1655f5a8342",
+            "description": "Leaders Liverpool had the dream weekend after victory over Aston Villa coupled with defeat for Manchester City against Brighton - and Sunday's 1-1 draw between Arsenal and Chelsea.",
+            "articleLink": "https://www.bbc.com/sport/football/articles/cqj0e5gpdwzo",
+            "category": "sport",
+            "subCategory": "football",
+            "jurnalist": "Emlyn Begley",
+            "date": "2024-11-11"
+        },
+        {
+            "title": "Usyk breaks Fury's heart with points win in rematch",
+            "imgUrl": "2629e850-bff8-11ef-8dcb-ab10a51bdb3c",
+            "description": "Oleksandr Usyk defeated Tyson Fury to retain his unified heavyweight world titles and prove his status as a generational great with another close points win in their rematch in Saudi Arabia.",
+            "articleLink": "https://www.bbc.com/sport/boxing/articles/c0kvpe54ky5o",
+            "category": "sport",
+            "subCategory": "boxing",
+            "jurnalist": "Kal Sajad",
+            "date": "2024-12-21"
+        },
+        {
+            "title": "Real Sociedad are the first team this season to prevent Barcelona from scoring",
+            "imgUrl": "33b10910-9fb2-11ef-93fc-5d6f3bcf8c68",
+            "description": "Leaders Barcelona fell to only their second La Liga defeat of the season at Real Sociedad with their teenage star Lamine Yamal absent through injury. The result leaves Barca six points clear at the top of the table with reigning champions Real Madrid in second with a game in hand.",
+            "articleLink": "https://www.bbc.com/sport/football/live/cvgxnzvnrmpt",
+            "category": "sport",
+            "subCategory": "football",
+            "jurnalist": "Jane Smith",
+            "date": "2024-11-10"
+        },
+        {
+            "title": "'Megastar' Suaalii shines in 'first grown-up game of rugby'",
+            "imgUrl": "0800a690-9f5d-11ef-a4c3-25565617f591",
+            "description": "Playing your first senior game of professional rugby union as a 21-year-old in front of 82,000 spectators at Twickenham's Allianz Stadium might have been an overwhelming occasion.",
+            "articleLink": "https://www.bbc.com/sport/rugby-union/articles/c170924lpn8o",
+            "category": "sport",
+            "subCategory": "Rugby Union",
+            "jurnalist": "Alastair Telfer",
+            "date": "2023-11-10"
+        },
+        {
+            "title": "Krejcikova criticises journalist over forehead remark",
+            "imgUrl": "99fc7a10-9f5d-11ef-a4c3-25565617f591",
+            "description": "Wimbledon champion Barbora Krejcikova criticised a journalist's 'unprofessional commentary' after he made a remark about her appearance on air.",
+            "articleLink": "https://www.bbc.com/sport/tennis/articles/cew2npwygq5o",
+            "category": "sport",
+            "subCategory": "tennis",
+            "jurnalist": "Katie Falkingham",
+            "date": "2024-11-10"
+        },
+        {
+            "title": "Emotional Cavendish wins final race of career",
+            "imgUrl": "9b6488d0-9f4d-11ef-99f2-bf964e057d4d",
+            "description": "Britain's Mark Cavendish, the most successful sprinter in cycling history, ended his career with victory in the Tour de France Criterium in Singapore.",
+            "articleLink": "https://www.bbc.com/sport/cycling/articles/c624l7p7z5vo",
+            "category": "sport",
+            "subCategory": "Cycling",
+            "jurnalist": "Sara Lee",
+            "date": "2024-11-10"
+        },
+        {
+            "title": "Bitcoin tops record $80,000 as Trump nears sweep of US Congress",
+            "imgUrl": "265e49c0-9fc2-11ef-b191-89cf3826c79b",
+            "description": "The price of bitcoin has risen above $80,000 (£62,000) for the first time ever, after Donald Trump's decisive victory in the US election last week. It comes as the Republicans are edging closer to overall control of Congress after having already secured the presidency and a majority in the Senate.",
+            "articleLink": "https://www.bbc.com/news/articles/c89v1w5lxxqo",
+            "category": "business",
+            "subCategory": "International Business",
+            "jurnalist": "Alex Green",
+            "date": "2024-11-11"
+        },
+        {
+            "title": "Elon Musk can keep giving $1m to voters, judge rules",
+            "imgUrl": "0930bf10-9b60-11ef-82c3-45a801b7330b",
+            "description": "Elon Musk's political group can keep awarding $1m (£722,000) to voters in swing states, a judge has ruled. The giveaway by Mr Musk's America PAC is set to end on Tuesday, and the final recipient has already been determined, a lawyer for the billionaire said in a court hearing on Monday.",
+            "articleLink": "https://www.bbc.com/news/articles/crlnjzzk919o",
+            "category": "business",
+            "subCategory": "Elon Musk",
+            "jurnalist": "Rachel Lookern",
+            "date": "2024-11-05"
+        },
+        {
+            "title": "How Japan's youngest CEO transformed Hello Kitty",
+            "imgUrl": "98d41590-86c5-11ef-94ad-0126cc7462ad",
+            "description": "Hello Kitty, arguably Japan's best loved creation, is celebrating her 50th anniversary. But all has not always been well at Sanrio, the Japanese company behind the character. The business has been on a spectacular journey of financial peaks and valleys. ",
+            "articleLink": "https://www.bbc.com/news/articles/c72pr8y2r9wo",
+            "category": "business",
+            "subCategory": "International business",
+            "jurnalist": "Mariko Oi",
+            "date": "2024-11-01"
+        },
+        {
+            "title": "Will Trump's victory spark a global trade war?",
+            "imgUrl": "6f5bcd50-9cac-11ef-8f68-b3f4c7458b50",
+            "description": "Donald Trump vowed on his campaign that he would tax all goods imported into the US if he won back the White House. Following his victory, businesses and economists around the world are scrambling to work out how serious he is.",
+            "articleLink": "https://www.bbc.com/news/articles/cjw0n7jvlzxo",
+            "category": "business",
+            "subCategory": "Global trade",
+            "jurnalist": "Faisal Islam",
+            "date": "2024-11-07"
+        },
+        {
+            "title": "'I lost nine teeth filming Squid Game': BBC on set with show's director",
+            "imgUrl": "8f21a640-9dc5-11ef-935d-3107d1c873e8",
+            "description": "When I ask the creator of the hit Korean drama Squid Game about reports that he was so stressed while shooting the first series he lost six teeth, he quickly corrects me. “It was eight or nine,” he laughs.",
+            "articleLink": "https://www.bbc.com/news/articles/cjr41jyz340o",
+            "category": "business",
+            "subCategory": "South Korea",
+            "jurnalist": "Jean Mackenzie",
+            "date": "2024-11-10"
+        },
+        {
+            "title": "China is trying to fix its economy - Trump could derail those plans",
+            "imgUrl": "ebc3ef50-9ccd-11ef-aa41-998bb22e478c",
+            "description": "China has unveiled new measures aimed at boosting its flagging economy, as it braces for a second Donald Trump presidency. The country plans to tackle tens of billions of dollars of local government debt to prevent it being a drag on growth.",
+            "articleLink": "https://www.bbc.com/news/articles/c0qdz1jne91o",
+            "category": "politics",
+            "subCategory": "China economy",
+            "jurnalist": "João da Silva",
+            "date": "2023-11-01"
+        },
+        {
+            "title": "Moscow targeted as Ukraine and Russia trade huge drone attacks",
+            "imgUrl": "cf53d5f0-9f76-11ef-be70-11353c06a79f",
+            "description": "Russia's defence ministry said it intercepted 84 Ukrainian drones over six regions, including some approaching Moscow, which forced flights to be diverted from three of the capital's major airports.",
+            "articleLink": "https://www.bbc.com/news/articles/cx28jd0114ro",
+            "category": "politics",
+            "subCategory": "War in Ukraine",
+            "jurnalist": "Alex Boyd",
+            "date": "2024-11-11"
+        },
+        {
+            "title": "Foreign-born voters: 'The money in US politics absolutely scares me'",
+            "imgUrl": "0089f820-909a-11ef-b3c2-754b6219680e",
+            "description": "Millions of people migrate to the United States every year, and the number of those who become US citizens - and therefore earn the right to vote - is growing.",
+            "articleLink": "https://www.bbc.com/news/articles/c6254qe9dqgo",
+            "category": "politics",
+            "subCategory": "United States",
+            "jurnalist": "Rachel Looker",
+            "date": "2024-10-23"
+        },
+        {
+            "title": "Germany engulfed by political crisis as Scholz coalition falls apart",
+            "imgUrl": "b82ad6e0-9d04-11ef-8538-e1655f5a8342",
+            "description": "While the world has been watching Washington, Germany is quietly going into political meltdown. This is a very German crisis involving coalition infighting and complicated constitutional questions.",
+            "articleLink": "https://www.bbc.com/news/articles/cd9n79w8p7po",
+            "category": "politics",
+            "subCategory": "Germany",
+            "jurnalist": "Damien McGuinness",
+            "date": "2024-11-07"
+        },
+        {
+            "title": "Swizz Beatz's guide to AlUla, Saudi Arabia",
+            "imgUrl": "p0jxyfm5",
+            "description": "Long closed to the outside world, this ancient city is now revealing its secrets. From hot air ballooning to stargazing, here are Swizz Beatz's picks in one of his favourite places.",
+            "articleLink": "https://www.bbc.com/travel/article/20241015-swizz-beatzs-guide-to-alula-saudi-arabia",
+            "category": "lifestyle",
+            "subCategory": "Cultural Activities",
+            "jurnalist": "Eva Sandoval",
+            "date": "2024-10-17"
+        },
+        {
+            "title": "A Oaxacan chef's guide to the best of Oaxaca City's street food",
+            "imgUrl": "p0k28045",
+            "description": "Chef Alejandro Ruiz thinks Oaxaca's street foods are a key to understanding its gastronomy. Here are his top street foods in the city, from memelas at Doña Vale to Tacos del Carmen.",
+            "articleLink": "https://www.bbc.com/travel/article/20241101-a-oaxacan-chefs-guide-to-the-best-of-oaxaca-citys-street-food",
+            "category": "lifestyle",
+            "subCategory": "Food",
+            "jurnalist": "Nick Hilden",
+            "date": "2024-11-02"
+        },
+        {
+            "title": "The world's adventure capital's massive gamble",
+            "imgUrl": "p0jybjkq",
+            "description": "The fuel-guzzling town of Queenstown, New Zealand, has an audacious goal to become the first tourist destination on Earth to have a completely carbon-zero visitor economy – and all by 2030.",
+            "articleLink": "https://www.bbc.com/travel/article/20241017-the-worlds-adventure-capitals-massive-gamble",
+            "category": "lifestyle",
+            "subCategory": "Features",
+            "jurnalist": "Craig Tansley",
+            "date": "2024-11-01"
+        },
+        {
+            "title": "The curious appeal of haunted hotels",
+            "imgUrl": "p0k18sww",
+            "description": "Every year around Halloween, countless hotels around the world tout their allegedly haunted status to guests – so why are both sceptics and believers booking them?.",
+            "articleLink": "https://www.bbc.com/travel/article/20241030-the-curious-appeal-of-haunted-hotels",
+            "category": "lifestyle",
+            "subCategory": "Hotels",
+            "jurnalist": "Lynn Brown",
+            "date": "2024-10-31"
+        },
+        {
+            "title": "A unique way to see a hidden side of Venice",
+            "imgUrl": "cf53d5f0-9f76-11ef-be70-11353c06a79f",
+            "description": "Smaller than gondolas, 'sandoli' are ancient boats that have been used by everyday Venetians for centuries. Today, they whisk travellers to quiet corners Venice where other boats can't go.",
+            "articleLink": "https://www.bbc.com/travel/article/20241107-sandolos-a-unique-way-to-see-a-hidden-side-of-venice",
+            "category": "lifestyle",
+            "subCategory": "history",
+            "jurnalist": "Lavinia Nocelli & Carola Cappellari",
+            "date": "2024-11-08"
+        },
+        {
+            "title": "A festive sweet treat with surprising Swedish origins",
+            "imgUrl": "p0kczxyh",
+            "description": "Every year, millions of red and white polkagris sweets, also known as candy canes or sticks, are rolled out by hand in the tiny town of Gränna in the north of Småland, considered by many to be Sweden's capital of candy.",
+            "articleLink": "https://www.bbc.com/travel/article/20241219-a-festive-sweet-treat-with-surprising-swedish-origins",
+            "category": "lifestyle",
+            "subCategory": "Food & Drink",
+            "jurnalist": "Rebecca Hay",
+            "date": "2024-12-21"
+        }
+    ],
+    "stream" : [
+        {
+            "id" : "5jyT1AfFbYQ",
+            "title": "Inside Operation Interflex: The training of Ukrainian troops on British soil | BBC News",
+            "date" : "2024-12-21",
+            "views" : "50k"
+        },
+        {
+            "id" : "62wEk02YKs0",
+            "title": "Coffee and what it does to your body - BBC World Service",
+            "date" : "2024-05-21",
+            "views" : "23jt"
+        },
+        {
+            "id" : "X9BvbOSbW84",
+            "title": "German police say nine-year-old among five people killed in Christmas market attack | BBC News",
+            "date" : "2024-12-22",
+            "views" : "48,32k"
+        },
+        {
+            "id" : "BV0epo8OUB4",
+            "title": "Don't underestimate North Korean troops in Russia, ex-soldiers tell BBC | BBC News",
+            "date" : "2024-12-21",
+            "views" : "524k"
+        },
+        {
+            "id" : "3QcemivkoUc",
+            "title": "US diplomats in Syria to meet new authorities | BBC News",
+            "date" : "2024-12-21",
+            "views" : "36k"
+        },
+        {
+            "id" : "-FNIAzYLCQA",
+            "title": "Will Australia's social media ban for under-16s work? ",
+            "date" : "2024-12-15",
+            "views" : "10,2k"
+        }
+    ]
+}

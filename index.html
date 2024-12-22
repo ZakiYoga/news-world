@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World News</title>
+
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="./css/styles.css">
+
+    <!-- Font Awesome 6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+        integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+
+<body>
+    <header>
+        <div class="header">
+            <div class="logo">
+                <h1>World</h1>
+                <img src="./assets/images/logo.png" alt="logo" class="icon" />
+                <h1>News</h1>
+            </div>
+            <div class="menu-toggleOpen">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+        <nav class="navbar">
+            <div class="mobile-header">
+                <div class="logo">
+                    <h1>World</h1>
+                    <img src="./assets/images/logo.png" alt="logo" class="icon" />
+                    <h1>News</h1>
+                </div>
+                <div class="menu-toggleClose">
+                    <i class="fa-solid fa-xmark"></i>
+                </div>
+            </div>
+            <ul>
+                <li class="active">
+                    <a href="/">
+                        <i class="fa-solid fa-house"></i>
+                        <p>Home</p>
+                    </a>
+                </li>
+                <li><a href="#news">News</a></li>
+                <li><a href="#politics">Politics</a></li>
+                <li><a href="#lifestyle">Lifestyle</a></li>
+                <li><a href="#sport">Sport</a></li>
+                <li><a href="#stream">Stream</a></li>
+                <div id="nav-animation" class="animation start-home"></div>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="content">
+            <section id="news" class="news-container">
+                <div class="news-card-container">
+                    <!-- <article class="news-item">
+                        <img src="./assets/images/images.png" alt="images">
+                        <div class="news-content">
+                            <div class="news-label">
+                                <i class="fa-solid fa-tag"></i>
+                                <span>Politics</span>
+                            </div>
+                            <a class="title">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            </a>
+                            <div class="time">
+                                Mar 23, 17
+                            </div>
+                        </div>
+                    </article> -->
+                </div>
+            </section>
+
+            <div class="main-container">
+                <div class="main-content">
+                    <section id="politics">
+                        <div class="header-section side-header">
+                            <div class="header">
+                                <h2>International Politics</h2>
+                            </div>
+                            <div class="btn-card">
+                                <button id="prev-card">
+                                    <i class="fa-solid fa-angle-left"></i>
+                                </button>
+                                <button id="next-card">
+                                    <i class="fa-solid fa-angle-right"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div id="mainCardContainer" class="main-card-container">
+                            <!-- <article class="card-item">
+                                <div class="card-image">
+                                    <img src="./assets/images/ebc3ef50-9ccd-11ef-aa41-998bb22e478c.png"
+                                        alt="img-post" />
+                                    <div class="category">
+                                        <i class="fa-solid fa-tag"></i>
+                                        Politics
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="title">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    </h4>
+                                    <div class="description">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                                    </div>
+                                </div>
+                                <div class="footer-card-item">
+                                    Author | 22 februari 2022
+                                </div>
+                            </article> -->
+                        </div>
+                    </section>
+                    <section id="lifestyle">
+                        <div class="header-section side-header">
+                            <div class="header">
+                                <h2>Lifestyle</h2>
+                            </div>
+                            <div class="header-showmore">
+                                <a href="#">
+                                    Show More &raquo;
+                                </a>
+                            </div>
+                        </div>
+                        <div class="main-card-container">
+                            <!-- <article class="card-item">
+                                <div class="card-image">
+                                    <img src="./assets/images/ebc3ef50-9ccd-11ef-aa41-998bb22e478c.png"
+                                        alt="img-post" />
+                                    <div class="category">
+                                        <i class="fa-solid fa-tag"></i>
+                                        Politics
+                                    </div>
+                                </div>
+                                <div class="label-firstItem">
+                                    <div class="label-author">
+                                        <i class="fa-solid fa-user"></i>
+                                        Author : Zaki Satria
+                                    </div>
+                                    |
+                                    <div class="label-datetime">
+                                        <i class="fa-regular fa-calendar-days"></i> 12 february 2022
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="title">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    </h4>
+                                    <div class="description">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit itaque beatae ad
+                                        asperiores architecto ea neque ex quae voluptatibus, nihil ipsum tempore labore
+                                        amet earum alias qui perspiciatis et quia!
+                                    </div>
+                                    <div class="footer-card-item">
+                                        Author | 22 februari 2022
+                                    </div>
+                                </div>
+                            </article> -->
+                        </div>
+                    </section>
+                    <section id="business">
+                        <div class="header-section side-header">
+                            <div class="header">
+                                <h2>business</h2>
+                            </div>
+                            <div class="header-showmore">
+                                <a href="#">
+                                    Show More &raquo;
+                                </a>
+                            </div>
+                        </div>
+                        <div class="main-card-container">
+                            <!-- <article class="card-item">
+                                <div class="card-image">
+                                    <img src="./assets/images/8f21a640-9dc5-11ef-935d-3107d1c873e8.png" alt="image" />
+                                </div>
+                                <div class="card-content">
+                                    <div class="category">
+                                        <i class="fa-solid fa-hashtag"></i>
+                                        Politics
+                                    </div>
+                                    <h4 class="title">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                                    <div class="label-datetime">
+                                        <i class="fa-regular fa-calendar-days"></i> 12 february 2022
+                                    </div>
+                                    <div class="description">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis impedit
+                                        voluptatum ab. Ad odit perferendis reiciendis animi. Aperiam earum quia ad
+                                        pariatur aliquid libero tenetur, ex nesciunt asperiores, consectetur molestias?
+                                    </div>
+                                    <a href="#" class="btn-readmore">
+                                        <span>Read more</span>
+                                        <div class="icon">
+                                            <i class="fa-solid fa-circle-right"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </article> -->
+                        </div>
+                    </section>
+                    <section id="sport">
+                        <div class="header-section side-header">
+                            <div class="header">
+                                <h2>Sport</h2>
+                            </div>
+                            <div class="header-showmore">
+                                <a href="#">
+                                    Show More &raquo;
+                                </a>
+                            </div>
+                        </div>
+                        <div class="main-card-container">
+                            <!-- <article class="card-item">
+                                <div class="card-image">
+                                    <img src="./assets//images/8f21a640-9dc5-11ef-935d-3107d1c873e8.png" alt="image" />
+                                </div>
+                                <div class="label-firstItem">
+                                    <div class="label-author">
+                                        <i class="fa-solid fa-user"></i>
+                                        Zaki Satria
+                                    </div>
+                                    <div class="label-datetime">
+                                        <i class="fa-regular fa-calendar-days"></i> 12 february 2022
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h4 class="title">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h4>
+                                    <div class="description">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ad aliquid quo
+                                        ducimus recusandae delectus, ipsum ea quas dolor non aliquam animi, qui optio
+                                        labore necessitatibus tempore perspiciatis vitae nam.
+                                    </div>
+                                    <div class="category">
+                                        <i class="fa-solid fa-hashtag"></i>
+                                        Sport
+                                    </div>
+                                </div>
+                            </article> -->
+                        </div>
+                    </section>
+                    <section id="stream">
+                        <div class="header-section stream-header">
+                            <div class="header">
+                                <i class="fa-solid fa-play-circle"></i>
+                                <h2>watch now</h2>
+                            </div>
+                        </div>
+                        <div class="stream-container">
+                            <div class="stream-item">
+                                <iframe src="https://www.youtube.com/embed/la9slqDPov0?controls=1&showinfo=0&rel=0"
+                                    title="YouTube video player"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen>
+                                </iframe>
+
+                            </div>
+                            <div class="stream-sidebar">
+                                <!-- VIDEO ITEMS -->
+                                <!-- <div class="video-item">
+                                     <a href="#">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/eyqoU-4WYrE/maxresdefault.png
+                                            " alt="video-item">
+                                            <div class="play-button">
+                                                <i class="fa-solid fa-play"></i>
+                                            </div>
+                                        </div>
+                                        <div class="content">
+                                            <h4>Video Title</h4>
+                                            <p>1,6 jt x ditonton &#8226;
+                                                9 bulan yang lalu</p>
+                                        </div>
+                                    </a> 
+                                </div>-->
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+
+                <aside>
+                    <section id="social-media">
+                        <div class="header-section social-header">
+                            <div class="header">
+                                <h2>Stay Connected</h2>
+                            </div>
+                        </div>
+                        <div class="social-media">
+                            <div class="social-item facebook">
+                                <a href="#">
+                                    <i class="fab fa-facebook i-facebook"></i>
+                                    <div class="social-text">
+                                        <span>Facebook</span>
+                                        <p>10,2k fans</p>
+                                    </div>
+                                    <div class="icon">
+                                        <p>Like</p>
+                                        <i class="fa-solid fa-thumbs-up"></i>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="social-item twitter">
+                                <a href="#">
+                                    <i class="fab fa-x-twitter i-twitter"></i>
+                                    <div class="social-text">
+                                        <span>Twitter</span>
+                                        <p>20,2k followers</p>
+                                    </div>
+                                    <div class="icon">
+                                        <p>Follow</p>
+                                        <i class="fa-solid fa-user-plus"></i>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="social-item youtube">
+                                <a href="#">
+                                    <i class="fab fa-youtube i-youtube"></i>
+                                    <div class="social-text">
+                                        <span>Youtube</span>
+                                        <p>30k members</p>
+                                    </div>
+                                    <div class="icon">
+                                        <p>Subscribe</p>
+                                        <i class="fa-solid fa-bell"></i>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="categories">
+                        <div class="header-section categories">
+                            <div class="header">
+                                <h2>categories</h2>
+                            </div>
+                        </div>
+                        <div class="aside-card-container">
+                            <ul class="list-categories">
+                                <li>
+                                    <a href="#">
+                                        Politics
+                                    </a>
+                                    <p id="count-politics">0</p>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        Business
+                                    </a>
+                                    <p id="count-business">0</p>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        Lifestyle
+                                    </a>
+                                    <p id="count-lifestyle">0</p>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        Sport
+                                    </a>
+                                    <p id="count-sport">0</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section id="trend-topics">
+                        <div class="header-section trend-topics ">
+                            <div class="header">
+                                <h2>Hot News Trends</h2>
+                            </div>
+                        </div>
+                        <div class="aside-card-container">
+                            <!-- <article class="card-item-aside">
+                                <img src="./assets/images/images.png" alt="images">
+                                <div class="content">
+                                    <div class="aside-label-content">
+                                        <i class="fa-solid fa-hashtag"></i>
+                                        sport
+                                    </div>
+                                    <a class="title-aside">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                    </a>
+                                    <div class="label-datetime">
+                                        <i class="fa-regular fa-calendar-days"></i> 12 february 2022
+                                    </div>
+                                </div>
+                            </article> -->
+                        </div>
+                    </section>
+                    <section id="about">
+                        <div class="header-section berita-populer-header ">
+                            <div class="header">
+                                <h2>About World News</h2>
+                            </div>
+                        </div>
+                        <div class="aside-card-container">
+                            <div class="card-item-aside">
+                                <p>
+                                    Welcome to World News Now, your trusted source for the latest updates and breaking
+                                    news from around the globe. We cover a wide range of topics, including politics,
+                                    lifestyle, sports, and more.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sub-newslatter">
+                        <div class="header-section">
+                            <div class="header">
+                                <h2>Subsribe our Newsletter</h2>
+                            </div>
+                        </div>
+                        <div class="aside-card-container">
+                            <p>Get Insights and Exclusive Updates with One Click.</p>
+                            <form method="post" class="form-subscribe">
+                                <input type="email" name="email" id="email" placeholder="Your email" />
+                                <button type="submit">
+                                    send
+                                </button>
+                            </form>
+
+                        </div>
+                    </section>
+                </aside>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; Copyright - World News by ZkiStr</p>
+    </footer>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
